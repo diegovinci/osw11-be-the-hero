@@ -36,7 +36,7 @@ export default function Incidents() {
             <Text style={styles.incidentProperty}>ONG:</Text>
             <Text style={styles.incidentValue}>APAD</Text>
 
-            <Text style={styles.incidentProperty}>Caso:</Text>
+            <Text style={styles.incidentProperty}>CASO:</Text>
             <Text style={styles.incidentValue}>Cadelinha atropelada</Text>
 
             <Text style={styles.incidentProperty}>VALOR:</Text>
